@@ -47,6 +47,7 @@ list(APPEND _LIBUI_SOURCES
 	unix/text.c
 	unix/util.c
 	unix/window.c
+	unix/nitroo_ext.c
 )
 set(_LIBUI_SOURCES ${_LIBUI_SOURCES} PARENT_SCOPE)
 

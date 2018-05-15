@@ -1126,6 +1126,8 @@ _UI_EXTERN uiGrid *uiNewGrid(void);
 // TODO merge
 #include "uitable.h"
 
+#include "nitroo_ext.h"
+
 #ifdef __cplusplus
 }
 #endif
